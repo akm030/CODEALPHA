@@ -259,8 +259,6 @@ nav ul li a:hover {
 .work img {
     width: 100%;
     border-radius: 10px;
-    display: block;
-    transition: transform 0.5s;
 }
 
 .layer {
